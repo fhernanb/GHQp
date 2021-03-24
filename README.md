@@ -2,7 +2,7 @@
 [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version-ago/stests)](https://cran.r-project.org/package=GHQp)
 [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/GHQp)](https://cran.r-project.org/package=GHQp) 
 
-# GHQp <img src="man/figures/logo.png" align="right" alt="" width="120" />
+# GHQp <img src="figures/logo.png" align="right" alt="" width="120" />
 
 Gauss Hermite Quadrature with pruning.
 
